@@ -20,7 +20,7 @@ Content-Type: application/json
     "password": "password",
     "status": "active" 
 }
-
+```
 Возможные значения поля «Статус»:
 * «active» — пользователь активен,
 * «blocked» — пользователь заблокирован.
